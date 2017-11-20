@@ -8,7 +8,7 @@ public class Viitegeneraattori {
         seuraava = 1;
     }
 
-    public int seruaava() {
+    public int seuraava() {
         return seuraava++;
     }
 }

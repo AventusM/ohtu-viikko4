@@ -22,6 +22,6 @@ public class Kauppa {
     }
     
     public void maksa(String tilinumero){
-        pankki.maksa(tilinumero, yhteishinta, viitegeneraattori.seruaava());
+        pankki.maksa(tilinumero, yhteishinta, viitegeneraattori.seuraava());
     }
 }
